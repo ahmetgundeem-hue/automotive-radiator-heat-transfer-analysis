@@ -45,7 +45,7 @@ The study focuses on evaluating the thermal performance of different engine cool
 - Developed model achieved high accuracy:
   - Error range: ~0% – 2%
  
-### Performance Charts
+### Performance Charts (Coefficient-based comparison of experimental and thermal model data.)
 ![Results Graph](MRE_RMSE_R.PNG) 
 
 ---
