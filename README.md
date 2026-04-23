@@ -56,7 +56,11 @@ The study focuses on evaluating the thermal performance of different engine cool
 ---
 
 ## 📸 Visuals
+### Radiator Test System Schematic
+![Radiator Schematic](radiator_schematic.PNG)
 
+### Experimental Setup Photo
+![Test System Photo](test_photo.PNG)
 
 ---
 
