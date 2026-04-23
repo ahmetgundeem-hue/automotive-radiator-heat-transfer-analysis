@@ -65,12 +65,19 @@ The study focuses on evaluating the thermal performance of different engine cool
 ### Experimental Setup Photo
 ![Test System Photo](test_photo.PNG)
 
-### Control Volume of Raditor
+### Control Volume of a Radiator
 ![Radiator_Controlvolume](Radiator_Controlvolume.PNG)
+
+### CFD Analysis of a Radiator
 
 ---
 
 ## 📎 Project Structure
+The repository is organized as follows:
+
+- `/images` → Experimental figures, graphs, and visual results  
+- `/report` → Master thesis PDF and documentation  
+- `README.md` → Project overview and description
 
 ---
 
@@ -81,4 +88,6 @@ This project demonstrates a reliable approach for predicting radiator thermal pe
 
 ## 📎 Project Resources
 - **Full Thesis:** [thesis.pdf](thesis.pdf)
+- **Artikel:** [Ahmet_Gündem_Artikel.pdf](Ahmet_Gündem_Artikel.pdf)
+- **Artikel:** 
 - **Author:** Ahmet Gündem
