@@ -43,7 +43,10 @@ The study focuses on evaluating the thermal performance of different engine cool
 - Water demonstrated the highest heat transfer performance  
 - EG and PG mixtures reduced performance by up to ~13%  
 - Developed model achieved high accuracy:
-  - Error range: ~0% – 2%  
+  - Error range: ~0% – 2%
+ 
+### Performance Charts
+![Results Graph](MRE_RMSE_R.PNG) 
 
 ---
 
@@ -62,6 +65,9 @@ The study focuses on evaluating the thermal performance of different engine cool
 ### Experimental Setup Photo
 ![Test System Photo](test_photo.PNG)
 
+### Control Volume of Raditor
+![Radiator_Controlvolume](Radiator_Controlvolume.PNG)
+
 ---
 
 ## 📎 Project Structure
@@ -73,5 +79,6 @@ This project demonstrates a reliable approach for predicting radiator thermal pe
 
 ---
 
-## 👤 Author
-Ahmet Gündem
+## 📎 Project Resources
+- **Full Thesis:** [thesis.pdf](thesis.pdf)
+- **Author:** Ahmet Gündem
