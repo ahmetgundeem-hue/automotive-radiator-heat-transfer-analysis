@@ -69,7 +69,7 @@ The study focuses on evaluating the thermal performance of different engine cool
 ![Radiator_Controlvolume](Radiator_Controlvolume.PNG)
 
 ### CFD Analysis of a Radiator
-
+![CFD_Analyse](CFD_Analyse.PNG)
 ---
 
 ## 📎 Project Structure
@@ -89,5 +89,4 @@ This project demonstrates a reliable approach for predicting radiator thermal pe
 ## 📎 Project Resources
 - **Full Thesis:** [thesis.pdf](thesis.pdf)
 - **Artikel:** [Ahmet_Gündem_Artikel.pdf](Ahmet_Gündem_Artikel.pdf)
-- **Artikel:** 
 - **Author:** Ahmet Gündem
